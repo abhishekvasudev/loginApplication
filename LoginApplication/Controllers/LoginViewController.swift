@@ -53,14 +53,14 @@ class LoginViewController: UIViewController {
     //MARK:- API CALL
     func getUser(userName:String,password:String){
         
-        let loginURL = url.rawValue + "username = \(userName) + password = \(password)"
+        let loginURL = url.rawValue + "username=\(userName)+password=\(password)"
         viewModel = LoginViewModel(loginURL, self)
         viewModel.getUser()
     }
     
     //MARK:- Navigation method
     func navigate(){
-        performSegue(withIdentifier: "loginSegue", sender: self)
+        performSegue(withIdentifier: SegueId.login.rawValue, sender: self)
     }
 
 }
