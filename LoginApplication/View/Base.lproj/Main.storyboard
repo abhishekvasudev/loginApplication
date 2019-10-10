@@ -46,16 +46,16 @@
                         </subviews>
                         <color key="backgroundColor" xcode11CocoaTouchSystemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jtm-67-vHp" secondAttribute="trailing" constant="50" id="5aR-6R-ZMz"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="qvI-kK-4bX" secondAttribute="trailing" constant="50" id="DdC-vf-rMx"/>
+                            <constraint firstItem="jtm-67-vHp" firstAttribute="leading" secondItem="bRX-fm-2LX" secondAttribute="leading" id="9MJ-ab-ETA"/>
+                            <constraint firstItem="YY2-pq-Yha" firstAttribute="leading" secondItem="bRX-fm-2LX" secondAttribute="leading" id="EyL-GU-68Q"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bRX-fm-2LX" secondAttribute="trailing" constant="50" id="IS3-QU-d4S"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="YY2-pq-Yha" secondAttribute="trailing" constant="50" id="NGD-yG-NXd"/>
+                            <constraint firstItem="qvI-kK-4bX" firstAttribute="trailing" secondItem="bRX-fm-2LX" secondAttribute="trailing" id="OaK-qx-7vg"/>
                             <constraint firstItem="qvI-kK-4bX" firstAttribute="top" secondItem="YY2-pq-Yha" secondAttribute="bottom" constant="10" id="Pqb-Du-PvX"/>
+                            <constraint firstItem="qvI-kK-4bX" firstAttribute="leading" secondItem="bRX-fm-2LX" secondAttribute="leading" id="Q4R-ew-7zD"/>
+                            <constraint firstItem="YY2-pq-Yha" firstAttribute="trailing" secondItem="bRX-fm-2LX" secondAttribute="trailing" id="S90-Ei-CqH"/>
                             <constraint firstItem="bRX-fm-2LX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="TmT-st-dgN"/>
-                            <constraint firstItem="qvI-kK-4bX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="dap-V0-C60"/>
-                            <constraint firstItem="jtm-67-vHp" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="iZG-Uu-DsS"/>
+                            <constraint firstItem="jtm-67-vHp" firstAttribute="trailing" secondItem="bRX-fm-2LX" secondAttribute="trailing" id="jPr-tC-0eg"/>
                             <constraint firstItem="bRX-fm-2LX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="lUf-1g-xvv"/>
-                            <constraint firstItem="YY2-pq-Yha" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="n9q-8o-G59"/>
                             <constraint firstItem="jtm-67-vHp" firstAttribute="top" secondItem="bRX-fm-2LX" secondAttribute="bottom" constant="20" id="obs-70-Y89"/>
                             <constraint firstItem="YY2-pq-Yha" firstAttribute="top" secondItem="jtm-67-vHp" secondAttribute="bottom" constant="10" id="xW7-dj-48F"/>
                         </constraints>
